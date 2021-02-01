@@ -27,4 +27,4 @@ My family had an elderly Lhasa-Apso that lived to be about 427 years old, give o
 ## Stuff to Add:
 ### A note to my future self  
 - deploy a plumber API inside a Docker container
-- deploy an API at OpenCPU
+- deploy an API at OpenCPU - [burch-cm@OpenCPU](https://burch-cm.ocpu.io/bark)
